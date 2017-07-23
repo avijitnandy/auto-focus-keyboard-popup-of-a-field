@@ -10,3 +10,5 @@ imm.hideSoftInputFromWindow(editTextField.getWindowToken(), 0);
 2. By setting activity property in manifest file as below
  
  android:windowSoftInputMode="stateHidden"
+
+Source: stack overflow
